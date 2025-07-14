@@ -1,2 +1,2 @@
-console.log('error');
-console.log();
+console.log('Hello World');
+console.error('Error');
